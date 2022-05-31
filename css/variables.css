@@ -1,0 +1,10 @@
+:root {
+    --brand-pink: #f67acb;
+    --gray-50: #c6ebf2;
+    --gray-100: #050110;
+    --gray-300: #393c40;
+    --gray-400: #5c6066;
+    --gray-800: #f7f8fa;
+    --white-text: rgba(255, 255, 255, 0.7);
+    --white: #fff;
+}
