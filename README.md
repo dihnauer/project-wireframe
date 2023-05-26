@@ -1,5 +1,5 @@
-# project-wireframe
+Projeto desenvolvido como prática de HTML e CSS puros.
 
-This project was developed to practice my knowledge with HTML and CSS.
+Trata-se de um wireframe de uma landing page, podendo ser adaptada e utilizada em diversos segmentos.
 
-You can test the app here: [Project Wireframe](https://dihnauer.github.io/project-wireframe/).
+Você pode visualizar o app aqui: [Project Wireframe](https://dihnauer.github.io/project-wireframe/).
